@@ -1,0 +1,2 @@
+# Obsidian
+为了同步安卓端与windows端的obsidian笔记而建
